@@ -1,6 +1,6 @@
 <?php
 
-namespace AgoraTokenBuilder;
+namespace TaylanUnutmaz\AgoraTokenBuilder;
 
 use DateTime;
 use DateTimeZone;

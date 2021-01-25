@@ -1,6 +1,6 @@
 <?php
 
-namespace AgoraTokenBuilder;
+namespace TaylanUnutmaz\AgoraTokenBuilder;
 
 class RtcTokenBuilder
 {
