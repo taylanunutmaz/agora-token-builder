@@ -30,7 +30,7 @@ $token = RtcTokenBuilder::buildTokenWithUid($appID, $appCertificate, $channelNam
 
 ```php
 $token = RtcTokenBuilder::buildTokenWithUserAccount($appID, $appCertificate, $channelName, $uidStr, $role, $privilegeExpiredTs);
-``
+```
 
 ### RTM Token
 
